@@ -254,7 +254,7 @@ paket-files/
 .idea/
 *.sln.iml
 
-# CodeRush
+# InvenTory
 .cr/
 
 # Python Tools for Visual Studio (PTVS)

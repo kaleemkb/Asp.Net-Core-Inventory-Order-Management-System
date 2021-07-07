@@ -1,17 +1,18 @@
-# Asp.Net-Core-Inventory-Order-Management-System
+# InvenTory:
 Project example Asp.Net Core Mvc implementation of inventory order management system. warehouse, product, vendor, customer, purchase order, sales order, shipment, goods receive and more.
 
 
-![inventory](coderush/wwwroot/images/scm6.png)
-![inventory](coderush/wwwroot/images/scm7.png)
+![inventory](InvenTory/wwwroot/images/scm6.png)
+![inventory](InvenTory/wwwroot/images/scm7.png)
 
 
-# Features
+# Features:
 
-- Asp.Net Core Mvc
+- Asp.Net Core 5.0
 - EF / Entity Framework
 - Code First
 - C#
+- Sql Server
 - Beautiful Bootstrap
 - Web API + JQuery
 - SendGrid
@@ -21,7 +22,7 @@ Project example Asp.Net Core Mvc implementation of inventory order management sy
 - Users, Roles and Memberships
 - 25+ CRUD Forms
 
-# Functional Features
+# Functional Features:
 
 - Dashboard / Chart Example
 - Sales
@@ -60,15 +61,22 @@ Project example Asp.Net Core Mvc implementation of inventory order management sy
   - Change Role
 
 
-# Development Tools & Environment
+# Development Tools & Environment:
 
-- **Visual Studio 2017 (Community Edition)**. (https://visualstudio.microsoft.com/) 
+- **Visual Studio 2017/2019 (Community Edition)**. (https://visualstudio.microsoft.com/) 
+- **Visual Studio Code (Community Edition)**. (https://visualstudio.microsoft.com/) 
 - **Syncfusion JQuery Controls EJ1 (Community Edition)**. (https://www.syncfusion.com/products/communitylicense)
 
 
 
-# Supported by CodeRush.Co
-[CodeRush.CO] source code collections (https://coderush.co). 50% Off All Products, Use Discount Code **GITHUB50**
+# Supported by:
+
+- **kaleemkb (https://github.com/kaleemkb).**
+
+Originally Forked From: (https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System).
+
+# Open For Contributions:
+This fork right here is open for anyone who would like to contribute to the project.
 
 
 
