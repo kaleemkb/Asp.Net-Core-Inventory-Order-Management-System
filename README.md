@@ -76,7 +76,7 @@ Project example Asp.Net Core Mvc implementation of inventory order management sy
 - **Originally Forked From: (https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System).**
 
 # Open For Contributions:
-This fork right here is open for anyone who would like to contribute to the project.
+This Repository is open for contributions from anyone. Feel free to experiment with the Repo and push useful contributions.
 
 
 
