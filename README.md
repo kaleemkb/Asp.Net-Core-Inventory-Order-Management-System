@@ -73,7 +73,7 @@ Project example Asp.Net Core Mvc implementation of inventory order management sy
 
 - **kaleemkb (https://github.com/kaleemkb).**
 
-Originally Forked From: (https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System).
+- **Originally Forked From: (https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System).**
 
 # Open For Contributions:
 This fork right here is open for anyone who would like to contribute to the project.
